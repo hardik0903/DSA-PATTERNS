@@ -447,3 +447,10 @@ A B C D E
 - 🔤 Patterns 14–18: various alphabetical sequences and orientations.
 - ⭐ Patterns 19 & 20: star shapes using expansion and contraction logic.
 - 🧩 Many mirror or extend earlier patterns, showcasing symmetry and loop control.
+
+---
+> "Code is like humor. When you have to explain it, it’s bad."
+
+**🔗 Connect with me:**  
+- GitHub: [hardik0903](https://github.com/hardik0903)  
+- LinkedIn: [Hardik Pandey](https://www.linkedin.com/in/hardik-pandey-4a836628a/)
