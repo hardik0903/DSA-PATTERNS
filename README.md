@@ -663,6 +663,14 @@ A B C D E
 ---
 > "Code is like humor. When you have to explain it, it’s bad."
 
+---
+
+[![Pattern Printing in C++ Tutorial](https://img.youtube.com/vi/tNm_NNSB3_w/0.jpg)](https://www.youtube.com/watch?v=tNm_NNSB3_w)
+
+---
+> I learned these patterns from this video tutorial. It offers clear, step-by-step explanations and practical examples. Highly recommend it for reinforcing these concepts.
+---
+
 **🔗 Connect with me:**  
 - GitHub: [hardik0903](https://github.com/hardik0903)  
 - LinkedIn: [Hardik Pandey](https://www.linkedin.com/in/hardik-pandey-4a836628a/)
