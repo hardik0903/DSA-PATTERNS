@@ -1,6 +1,218 @@
 # 🌟 Pattern Printing in C++ 💻
 
-This 📁 contains C++ 🧾 to print 🖨️ various 🎨 using 🔁 loops. Each 🎨 is 🔧 as a function 🔂, and `main` reads 🧠 the number 🔢 of test 🧪 and values of `n` to 🖨️ the 🎨.
+This 📁 contains C++ 🧾 to print 🖨️ various 🎨 using 🔁 loops. Each 🎨 is 🔧 as a function 🔂, and `main` reads 🧠 the number 🔢 of test 🧪 and values of `n` to 🖨️ the 🎨. The patterns designed below are the ones which we are going to solve further.
+
+### Pattern 1: Full Square
+```
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+```
+
+### Pattern 2: Right-Angled Triangle
+```
+*
+* *
+* * *
+* * * *
+```
+
+### Pattern 3: Increasing Number Triangle
+```
+1
+12
+123
+1234
+```
+
+### Pattern 4: Repeated Number Triangle
+```
+1
+22
+333
+4444
+```
+
+### Pattern 5: Inverted Star Triangle
+```
+* * * * *
+* * * *
+* * *
+* *
+*
+```
+
+### Pattern 6: Inverted Numeric Triangle
+```
+12345
+1234
+123
+12
+1
+```
+
+### Pattern 7: Centered Pyramid of Stars
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+### Pattern 8: Inverted Centered Pyramid of Stars
+```
+*********
+ *******
+  *****
+   ***
+    *
+```
+
+### Pattern 9: Diamond of Stars
+```
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
+```
+
+### Pattern 10: Increasing + Decreasing Stars
+```
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+```
+
+### Pattern 11: Alternating Binary Triangle
+```
+1
+01
+101
+0101
+10101
+```
+
+### Pattern 12: Numeric Palindromic Pyramid
+```
+1        1
+12      21
+123    321
+1234  4321
+1234554321
+```
+
+### Pattern 13: Floyd’s Triangle
+```
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+```
+
+### Pattern 14: Alphabetical Triangle
+```
+A
+A B
+A B C
+A B C D
+A B C D E
+```
+
+### Pattern 15: Inverted Alphabetical Triangle
+```
+A B C D E
+A B C D
+A B C
+A B
+A
+```
+
+### Pattern 16: Repeated Letter Triangle
+```
+A
+BB
+CCC
+DDDD
+EEEEE
+```
+
+### Pattern 17: Alphabetic Palindromic Pyramid
+```
+   A   
+  ABA  
+ ABCBA 
+ABCDCBA
+```
+
+### Pattern 18: Reverse Alphabetical Triangle
+```
+E
+D E
+C D E
+B C D E
+A B C D E
+```
+
+### Pattern 19: Hourglass Star Pattern
+```
+**********
+****  ****
+***    ***
+**      **
+*        *
+**      **
+***    ***
+****  ****
+**********
+```
+
+### Pattern 20: Double Arrowhead Star Pattern
+```
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+```
+
+### Pattern 21: Hollow Square Star Pattern
+```
+****
+*  *
+*  *
+****
+```
+
+### Pattern 22: Concentric Number Square Pattern
+```
+4444444
+4333334
+4322234
+4321234
+4322234
+4333334
+4444444
+```
+
 
 ## 📚 Table of Contents
 
