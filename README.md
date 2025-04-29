@@ -669,6 +669,7 @@ A B C D E
 
 ---
 > I learned these patterns from this video tutorial. It offers clear, step-by-step explanations and practical examples. Highly recommend it for reinforcing these concepts.
+
 ---
 
 **🔗 Connect with me:**  
