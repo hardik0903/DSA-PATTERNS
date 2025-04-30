@@ -2,6 +2,7 @@
 
 This 📁 contains C++ 🧾 to print 🖨️ various 🎨 using 🔁 loops. Each 🎨 is 🔧 as a function 🔂, and `main` reads 🧠 the number 🔢 of test 🧪 and values of `n` to 🖨️ the 🎨. The patterns designed below are the ones which we are going to solve further.
 
+
 ### Pattern 1: Full Square
 ```
 * * * * *
